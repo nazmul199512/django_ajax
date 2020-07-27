@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2b472da-c8e6-487b-8b73-5ba59497cfcb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ekDyvuNjBv8YLHGXxULaRCyDOr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jsx.switch.disabled" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../django_ecommerce/src/django_ecommerce" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="django_ajax" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_ajax" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2b472da-c8e6-487b-8b73-5ba59497cfcb" name="Default Changelist" comment="" />
+      <created>1594856954769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594856954769</updated>
+      <workItem from="1594856957872" duration="4581000" />
+      <workItem from="1594875505446" duration="47000" />
+      <workItem from="1595338499986" duration="4188000" />
+      <workItem from="1595424939863" duration="778000" />
+      <workItem from="1595475874598" duration="20223000" />
+      <workItem from="1595598441414" duration="180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="813" y="227" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1595342737674">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="813" y="227" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1366.728@0.0.1366.728" timestamp="1595342737674" />
+    <state x="413" y="61" key="FileChooserDialogImpl" timestamp="1595598623607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="61" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595598623607" />
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog" timestamp="1595598447253">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="314" y="146" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1595598447253" />
+    <state x="-57" y="-1" key="search.everywhere.popup" timestamp="1595341715709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-57" y="-1" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595341715709" />
+  </component>
+</project>
